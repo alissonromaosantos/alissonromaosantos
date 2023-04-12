@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisson !
 =================================================================================================================================
 
-A passionate fullstack developer from Brazil
+A passionate fullstack developer student from Brazil
 --------------------------------------------
 
-I'm learning about programming there three years and developing projects using technologies like react.js, node.js and typescript. I started studying frontend development but currently interested in fullstack development.
+I'm learning about programming. I started studying frontend development but currently interested for fullstack development.
 
 * 🌍  I'm based in Camaçari, Bahia, Brazil
 * ✉️  You can contact me at [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
