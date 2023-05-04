@@ -1,21 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisson !
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Alisson !
 =================================================================================================================================
 
-A passionate fullstack developer student from Brazil
+Desenvolvedor de Software Front-end apaixonado por tecnologia!
 --------------------------------------------
 
-I'm learning about programming. I started studying frontend development but currently interested for fullstack development.
+Todos os dias aprendo um pouco mais sobre programação. Atualmente estou me especializando na stack JavaScript.
 
-* 🌍  I'm based in Camaçari, Bahia, Brazil
-* ✉️  You can contact me at [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
-* 🧠  I'm learning Javascript, Typescript, Node.js and React.js
-* 🤝  I'm open to collaborating on open sources projects from startups and companies
+* 🌍  Moro em Camaçari, Bahia, Brazil
+* ✉️  Você pode me contactar em [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
+* 🧠  Eu estou aprendendo mais sobre Javascript, Typescript, Node.js and React.js
+* 🤝  Estou aberto para colaborar em projetos de todos os tipos seja em startups ou em médias e grandes empresas
 
-<a href="https://www.twitter.com/alissonsdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/alissonsdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -26,13 +22,13 @@ src="https://img.shields.io/twitter/follow/alissonsdev?logo=twitter&style=for-th
 </p>
 
 
-### Socials
+### Mídias Sociais
 
 <p align="left"> <a href="https://www.github.com/alissonromaosantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/devalissonrsantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alissonromaosantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alissonsdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Distintivos
 
-<b>My GitHub Stats</b>
+<b>Meu GitHub Stats</b>
 
 <a href="http://www.github.com/alissonromaosantos"><img src="https://github-readme-stats.vercel.app/api?username=alissonromaosantos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alissonromaosantos's GitHub stats" /></a>
 
