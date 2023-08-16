@@ -4,7 +4,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor de Software Fullstack
 -----------------------------------
 
-Comecei a escrever minhas primieras linhas de código em 2020, de lá pra cá estou a cada dia mais fascinado e apaixonado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação seja através de vídeos, livros ou documentação .
+Comecei a escrever minhas primeiras linhas de código no ano de 2020, de lá pra cá estou a cada dia mais fascinado e apaixonado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação seja através de vídeos, livros ou documentação.
 
 *   🌍  Eu moro em Camaçari, Bahia, Brasil
 *   ✉️  Você pode me contactar em [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
@@ -13,6 +13,7 @@ Comecei a escrever minhas primieras linhas de código em 2020, de lá pra cá es
 *   ⚡  Gosto de pizza, de café como todo programador e além disso amo futebol
 
 ### Skills 
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,12 +29,12 @@ Comecei a escrever minhas primieras linhas de código em 2020, de lá pra cá es
                     
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/alissonromaosantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alissonromaosantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alissonsdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/alissonromaosantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alissonromaosantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alissonromaos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonromaosantos&theme=dracula&show_icons=true)
+![Alisson's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alissonromaosantos&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonromaosantos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alissonromaosantos&theme=dracula)](https://github.com/alissonromaosantos/github-readme-stats)
