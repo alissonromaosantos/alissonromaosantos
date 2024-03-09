@@ -6,7 +6,7 @@ Olá ![Saudação](https://user-images.githubusercontent.com/18350557/176309783-
 👨🏻‍💻 Desenvolvedor de Software Fullstack
 -----------------------------------
 
-Sou Técnico em Desenvolvimento de Sistemas pelo Senai Cetind, estou a cada dia mais fascinado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação seja através de vídeos, livros ou documentação.
+Sou Técnico em Desenvolvimento de Sistemas pelo Senai Cetind, estou a cada dia mais fascinado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação seja através de vídeos, livros e documentação.
 
 *   🌍  Eu moro em Camaçari, Bahia, Brasil
 *   ✉️  Você pode me contactar em [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
