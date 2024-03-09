@@ -7,7 +7,7 @@ Olá ![Saudação](https://user-images.githubusercontent.com/18350557/176309783-
 Sou Técnico em Desenvolvimento de Sistemas pelo Senai Cetind, estou a cada dia mais fascinado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação seja através de vídeos, livros ou documentação.
 
 *   🌍  Eu moro em Camaçari, Bahia, Brasil
-*   ✉️  Você pode me contactar em <a href="mailto:eualissonromaosantos@gmail.com">eualissonromaosantos@gmail.com</a>
+*   ✉️  Você pode me contactar em [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
 *   🤝🏼  Estou aberto para colaborar em projetos de startups, médias e grandes empresas
 *   ⚡  Gosto de pizza, de café como todo programador e além disso amo futebol
 
