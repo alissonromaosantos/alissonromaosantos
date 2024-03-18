@@ -3,7 +3,7 @@ Olá ![Saudação](https://user-images.githubusercontent.com/18350557/176309783-
 
 ![Life Long Learning](./github-background.gif)
 
-👨🏻‍💻 Desenvolvedor de Software Fullstack
+👨🏻‍💻 Desenvolvedor de Software Full-Stack
 -----------------------------------
 
 Sou Técnico em Desenvolvimento de Sistemas pelo Senai Cetind, estou a cada dia mais fascinado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação através de aulas, livros e documentação.
