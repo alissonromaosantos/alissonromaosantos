@@ -3,15 +3,15 @@ Olá ![Saudação](https://user-images.githubusercontent.com/18350557/176309783-
 
 ![Life Long Learning](./github-background.gif)
 
-👨🏻‍💻 Desenvolvedor de Software
+👨🏻‍💻 Desenvolvedor de Software Front-end 
 -----------------------------------
 
-Sou Técnico em Desenvolvimento de Sistemas pelo Senai Cetind, estou a cada dia mais apaixonado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação através de aulas, livros e documentação.
+Sou Desenvolvedor de Software Front-end, estou a cada dia mais apaixonado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação através de aulas, livros e documentação.
 
 *   🌍  Eu moro em Camaçari, Bahia, Brasil
 *   ✉️  Você pode me contactar em [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
 *   🤝🏼  Estou aberto para colaborar em projetos de startups, médias e grandes empresas
-*   ⚡  Gosto de pizza e de café como todo programador, além disso amo esportes
+*   ⚡  Gosto de café como todo programador, além disso amo esportes
 
 ### Skills 
 
@@ -42,3 +42,9 @@ Sou Técnico em Desenvolvimento de Sistemas pelo Senai Cetind, estou a cada dia 
 ![Alisson's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alissonromaosantos&theme=dracula)
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alissonromaosantos&theme=dracula)
+
+---
+
+<div align="center">
+&copy; Alisson Romão Santos
+</div>
