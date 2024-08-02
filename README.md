@@ -3,10 +3,10 @@ Olá ![Saudação](https://user-images.githubusercontent.com/18350557/176309783-
 
 ![Life Long Learning](./github-background.gif)
 
-👨🏻‍💻 Desenvolvedor de Software Front-end 
+👨🏻‍💻 Desenvolvedor de Software
 -----------------------------------
 
-Sou Desenvolvedor de Software Front-end, estou a cada dia mais apaixonado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação através de aulas, livros e documentação.
+Sou Desenvolvedor de Software, estou a cada dia mais apaixonado pelo universo da programação e tecnologia, com isso todos os dias aprendo coisas novas sobre programação através de aulas, livros e documentação.
 
 *   🌍  Eu moro em Camaçari, Bahia, Brasil
 *   ✉️  Você pode me contactar em [eualissonromaosantos@gmail.com](mailto:eualissonromaosantos@gmail.com)
