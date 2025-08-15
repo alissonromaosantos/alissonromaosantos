@@ -1,4 +1,4 @@
-# 👋🏻 Hi, My name is Alisson!
+# 👋🏻 Hi, my name is Alisson!
 
 ## 🧑🏻‍💻 Software Developer
 
