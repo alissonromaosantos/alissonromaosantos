@@ -2,7 +2,13 @@
 
 ## 🧑🏻‍💻 Software Developer
 
-I'm a Brazilian software developer 🇧🇷, graduated from SENAI CETIND 🎓 and Cubos Academy 💡. I spent about 5 years of my life treating programming as a hobby 🧑🏻‍💻, and now I want to turn that hobby into my profession 💼. I really enjoy working in multidisciplinary teams 🤝🏻, developing challenging and robust projects 🚀. I believe that a team united by a common purpose 💪🏻 is capable of facing any challenge 🧗.
+I'm a brazilian Software Developer 🇧🇷. **Since my first contact with programming**, I understood that software development goes beyond logic and syntax — it's the opportunity to transform ideas into solutions that directly impact people's lives. Since then, technology has become an essential part of my professional journey. 💻✨
+
+I am a **Software Developer**, graduated from **SENAI CETIND** and **Cubos Academy**. I have solid experience in **React.js**, **Next.js**, **Tailwind CSS**, **JavaScript**, and **TypeScript**. My journey includes building **dynamic and engaging user interfaces** while always applying good version control practices with **Git** and agile methodologies like **Scrum**. 🔧👨‍💻📈
+
+My main motivation is to collaborate actively in a team, continuously learning and contributing to high-quality results. My goal is to work as a **Front-end Software Developer** in a company that values **innovation**, **creativity**, and **collaboration**, delivering scalable, robust solutions that simplify everyday processes for people. 🚀👥💡
+
+Outside the tech world, I have personal interests that inspire and renew my energy, like practicing sports 🏋️‍♂️, enjoying a good cup of coffee ☕, and savoring a delicious pizza 🍕 — details that help me maintain balance, focus, and creativity.
 
 🌍  I'm based in Camaçari, Bahia, Brasil
 
@@ -28,7 +34,5 @@ I'm a Brazilian software developer 🇧🇷, graduated from SENAI CETIND 🎓 an
 
 <b>My GitHub Stats</b>
 
-![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonromaosantos&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonromaosantos&layout=compact&theme=dracula)
+![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonromaosantos&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonromaosantos&layout=compact&theme=dracula)
 
