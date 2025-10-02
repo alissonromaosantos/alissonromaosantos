@@ -4,15 +4,15 @@
 
 I'm a Brazilian software developer 🇧🇷, graduated from SENAI CETIND 🎓 and Cubos Academy 💡. I spent about 5 years of my life treating programming as a hobby 🧑🏻‍💻, and now I want to turn that hobby into my profession 💼. I really enjoy working in multidisciplinary teams 🤝🏻, developing challenging and robust projects 🚀. I believe that a team united by a common purpose 💪🏻 is capable of facing any challenge 🧗.
 
-🌍  I'm based in Camaçari, Bahia, Brasil.
+🌍  I'm based in Camaçari, Bahia, Brasil
 
 ✉️  You can contact me at aliromaosantos@gmail.com
 
-🧠  I'm learning about Software Engineer.
+🧠  I'm learning about Software Engineering
 
-🤝  I'm open to collaborating on challenging projects for small, medium, and large companies.
+🤝  I'm open to collaborating on challenging projects for small, medium, and large companies
 
-⚡  I love pizza and coffee like every good programmer.
+⚡  I love pizza and coffee like every good programmer
 
 ### Skills
 
