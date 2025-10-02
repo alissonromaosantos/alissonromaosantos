@@ -6,7 +6,7 @@ I'm a brazilian Software Developer 🇧🇷. **Since my first contact with progr
 
 I am a **Software Developer**, graduated from **SENAI CETIND** and **Cubos Academy**. I have solid experience in **React.js**, **Next.js**, **Tailwind CSS**, **JavaScript**, and **TypeScript**. My journey includes building **dynamic and engaging user interfaces** while always applying good version control practices with **Git** and agile methodologies like **Scrum**. 🔧👨‍💻📈
 
-My main motivation is to collaborate actively in a team, continuously learning and contributing to high-quality results. My goal is to work as a **Front-end Software Developer** in a company that values **innovation**, **creativity**, and **collaboration**, delivering scalable, robust solutions that simplify everyday processes for people. 🚀👥💡
+My main motivation is to collaborate actively in a team, continuously learning and contributing to high-quality results. My goal is to work as a **Frontend Software Developer** in a company that values **innovation**, **creativity**, and **collaboration**, delivering scalable, robust solutions that simplify everyday processes for people. 🚀👥💡
 
 Outside the tech world, I have personal interests that inspire and renew my energy, like practicing sports 🏋️‍♂️, enjoying a good cup of coffee ☕, and savoring a delicious pizza 🍕 — details that help me maintain balance, focus, and creativity.
 
