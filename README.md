@@ -6,7 +6,7 @@ I'm a Brazilian software developer 🇧🇷, graduated from SENAI CETIND 🎓 an
 
 🌍  I'm based in Camaçari, Bahia, Brasil.
 
-✉️  You can contact me at alissonromaosantos94@gmail.com
+✉️  You can contact me at aliromaosantos@gmail.com
 
 🧠  I'm learning about Software Engineer.
 
