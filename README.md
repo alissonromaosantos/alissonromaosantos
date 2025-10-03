@@ -4,9 +4,9 @@
 
 I'm a brazilian Software Developer 🇧🇷. **Since my first contact with programming**, I understood that software development goes beyond logic and syntax — it's the opportunity to transform ideas into solutions that directly impact people's lives. Since then, technology has become an essential part of my professional journey. 💻✨
 
-I am a **Software Developer**, graduated from **SENAI CETIND** and **Cubos Academy**. I have solid experience in **React.js**, **Next.js**, **Tailwind CSS**, **JavaScript**, and **TypeScript**. My journey includes building **dynamic and engaging user interfaces**, always applying best practices in version control with **Git** and agile methodologies with **Scrum**.🔧👨‍💻📈
+I am a **Software Developer**, graduated from **SENAI CETIND** and **Cubos Academy**. I have solid experience in **Java**, **Spring Boot**, **Node.js**, and **Nest.js**. My journey includes everything from building **REST APIs** to working with **SQL** and **NoSQL** databases, always applying best practices in version control using **Git** and agile methodologies with **Scrum**.🔧👨‍💻📈
 
-My main motivation is to collaborate actively in a team, continuously learning and contributing to high-quality results. My goal is to work as a **Front-end Software Developer** in a company that values **innovation**, **creativity**, and **collaboration**, delivering scalable, robust solutions that simplify everyday processes for people. 🚀👥💡
+My main motivation is to collaborate actively in a team, continuously learning and contributing to high-quality results. My goal is to work as a **Backend Software Developer** in a company that values **innovation**, **creativity**, and **collaboration**, delivering scalable, robust solutions that simplify everyday processes for people. 🚀👥💡
 
 Outside the tech world, I have personal interests that inspire and renew my energy, like practicing sports 🏋️‍♂️, enjoying a good cup of coffee ☕, and savoring a delicious pizza 🍕 — details that help me maintain balance, focus, and creativity.
 
