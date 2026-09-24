@@ -1,6 +1,6 @@
 # Olá, eu sou Álisson! 👋🏻 
 
- **Engenheiro de Software**
+ 🧑🏻‍💻 **Engenheiro de Software**
 
 Meu objetivo é atuar como Engenheiro de Software, contribuindo para projetos reais enquanto continuo desenvolvendo minhas habilidades em engenharia de software, arquitetura e desenvolvimento de aplicações escaláveis.
 
