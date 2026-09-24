@@ -173,3 +173,9 @@ Arquitetura de sistemas
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romaosantosalisson@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+  <p>&copy; Feito com ❤️ e por ☕ <a href="https://www.linkedin.com/in/alissonromaosantos"><strong>Álisson</strong></a></p>
+</div>
