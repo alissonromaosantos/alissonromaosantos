@@ -177,5 +177,5 @@ Arquitetura de sistemas
 ---
 
 <div align="center">
-  <p>&copy; Feito com ❤️ e por ☕ <a href="https://www.linkedin.com/in/alissonromaosantos"><strong>Álisson</strong></a></p>
+  <p>&copy; Feito com ❤️ e ☕ por <a href="https://www.linkedin.com/in/alissonromaosantos"><strong>Álisson</strong></a></p>
 </div>
