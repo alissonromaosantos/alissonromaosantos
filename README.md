@@ -6,7 +6,7 @@ Meu objetivo é atuar como Engenheiro de Software, contribuindo para projetos re
 
 Tenho interesse em trabalhar em ambientes onde possa aprender com desenvolvedores mais experientes, contribuir com o time e evoluir continuamente como profissional.
 
-## 🚀 Sobre mim
+## 📜 Sobre mim
 
 - 🎓 Técnico em Desenvolvimento de Sistemas — SENAI Lauro de Freitas
 - 💻 Foco em desenvolvimento Fullstack
@@ -75,7 +75,7 @@ Aplicação web desenvolvida para consulta e exploração de informações sobre
 
 🔗 [Repositório](https://github.com/alissonromaosantos/poke-guide)
 
-🌐 [Demo](https://alissonromaosantos.github.io/poke-guide/)
+🚀 [Site da Poke Guide](https://alissonromaosantos.github.io/poke-guide/)
 
 ---
 
