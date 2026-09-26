@@ -79,7 +79,7 @@ Aplicação web desenvolvida para consulta e exploração de informações sobre
 
 ---
 
-### 📇 Contacts API
+### 📇 Scheduling API with Connection WhatsApp and Stripe
 
 API RESTful para gerenciamento de contatos, desenvolvida com foco em organização de código, separação de responsabilidades e aplicação de boas práticas de arquitetura.
 
@@ -100,7 +100,7 @@ API RESTful para gerenciamento de contatos, desenvolvida com foco em organizaç�
 - Integração com WhatsApp
 - Envio de e-mails
 
-O projeto está sendo desenvolvido de forma incremental, aplicando os conceitos estudados durante sua construção.
+O projeto está sendo desenvolvido de forma incremental [aqui](https://github.com/alissonromaosantos/scheduling-api), aplicando os conceitos estudados durante sua construção.
 
 ---
 
